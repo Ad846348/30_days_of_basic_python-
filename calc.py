@@ -33,6 +33,7 @@ def calc():
             print("table of b=",b*j)
         elif (i==9):
             print("Exit")
+            break 
         else:
           print("invalid")
 
