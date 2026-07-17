@@ -1,7 +1,7 @@
 def calc():
     print("SMART CALCULATOR")
-    while True ():
-        """ 1. Addition
+    while True:
+        print( """ 1. Addition
 2.Subtraction
 3.Multiplication
 4.Floor Division
@@ -9,7 +9,7 @@ def calc():
 6.Modulus
 7.Exponential
 8.Table of a and b
-9.Exit"""        
+9.Exit""")      
 a=int(input("enter the number "))
 b=int(input("enter the number "))
 i=int(input("enter choice "))
