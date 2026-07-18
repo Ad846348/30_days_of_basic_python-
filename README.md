@@ -21,4 +21,5 @@ It performs 8 types of mathematical operations.
 
    # How to run
    1.Download or clone the repo
-   2.Run the command.
+   2.Run the command
+   Student marksheet.py
