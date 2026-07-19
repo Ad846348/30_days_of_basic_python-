@@ -22,6 +22,10 @@ It performs 8 types of mathematical operations.
    # 4. Fibonacci series
    Features:-✨
    This program is created using recurssion i.e, recursive program 
+
+   # 5. Simple Calculator 
+   Features:-✨
+   This is a simple python function based calculator. It performs 4 functions.
    
 
    
