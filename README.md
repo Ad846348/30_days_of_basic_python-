@@ -28,14 +28,22 @@ It performs 8 types of mathematical operations.
    This is a simple python function based calculator. It performs 4 functions.
 
    # 6. To-Do List
+   Features:-✨
    It is a simple To-Do-List.
    It allow users to add, delete and show their tasks...
 
    # 7. Contact Book 
+   Features:-✨
    It is a python based contact book that offers user to add,search and show contacts...
 
    # 8. To_Do_List (OOPS)
+   Features:-✨
    It is a simple To-do-list made by using OOPS in python 
+
+   # 9. Scientific calculator
+   Features:-✨
+   It is a scientific calculator based on OOPS inheritance function.
+   It performs 5 operations ..
    
    
    
