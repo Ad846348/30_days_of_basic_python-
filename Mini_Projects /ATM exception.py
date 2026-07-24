@@ -11,16 +11,20 @@ class ATM:
 			f.write(str(self.balance))
 			f.close()
 	def debit(self):
-		a=int(input("Enter the amount :"))
-		if(a>self.balance):
-			print("Insufficient Balance")
-		elif(a>1000):
-			print(f"only debit till1000")
-		else:
-			self.balance-=a
-			self.save_balance()
-			print(" RemainingBalance=",self.balance)
-	def check_Balance(self):
+		try:
+			a=int(input("Enter the amount :"))
+			if(a>self.balance):
+				print("Insufficient Balance")
+		    elif(a>1000):
+			    print(f"only debit till1000")
+		    else:
+			    self.balance-=a
+			    self.save_balance()
+			    print(" RemainingBalance=",self.balance)
+          except  ValueError:
+             print("Error: Input only numbers")
+	def check_
+Balance(self):
 		print("current Balance=",self.balance)
 normal=ATM()
 normal.check_Balance()
