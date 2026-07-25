@@ -1,4 +1,4 @@
-from atmlogic import ATM
+from ATM_logic import ATM
 atm=ATM()
 a=int(input("Enter amount "))
 print (atm.check_balance())
