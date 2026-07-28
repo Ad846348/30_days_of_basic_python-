@@ -69,6 +69,19 @@ Features✨
    It is a combination of two files ATM_logic.py + Module.py .
    It is based on python module function.
    It is done to make the program clean and short..
+   # 13.atm_logic
+   Features:-✨
+   It is a simple ATM machine based on python (oops+logic statement)
+   It takes amount from user and credit or debit it to their account 
+
+   # 14.ATM_GUI
+   Features:-✨
+A simple ATM Machine with Deposit, Withdraw and Check Balance features.
+Made during my Python learning journey.
+
+## How to Run
+python atm_gui.py
+   
    
    
    
