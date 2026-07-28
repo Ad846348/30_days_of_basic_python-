@@ -78,7 +78,9 @@ Features✨
    Features:-✨
 A simple ATM Machine with Deposit, Withdraw and Check Balance features.
 Made during my Python learning journey.
-
+## Screenshot
+![ATM_gui](screenshots/atm_gui.png)
+![ATM_gui](screenshots/atm_gui_02.png)
 ## How to Run
 python atm_gui.py
    
