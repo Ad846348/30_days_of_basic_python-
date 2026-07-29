@@ -11,12 +11,12 @@ class To_do_List :
 	  	a=input("Enter the task: ")
 	  	self.tasks.append(a)
 	  	print(self.tasks)
-def delete(self):
-   	b=int(input("Enter the no. to delete: "))
-   	for i in range(len(self.tasks),1):
-   		if (b==i):
-   			tasks.pop(b-1)
-   		else:
+    def delete(self):
+		b=int(input("Enter the no. to delete: "))
+		for i in range(len(self.tasks),1):
+			if (b==i):
+				tasks.pop(b-1)
+			else:
    				print("Invalid")
 to_do=To_do_List ()
 while True:
