@@ -49,3 +49,10 @@ It prints the Fibonacci series till the input number provided by user.
 # ATM_Module
 Features:-✒️
 It is almost same as ATM. It only shows the use of import command.
+
+# Project-5 (Weather app)
+Features:-✒️
+It is a simple terminal code that take city name as input from user and show its weather condition.
+# Quiz app
+Features:-✒️
+It is a simple terminal code that ask few questions from user and show their respective scores.
