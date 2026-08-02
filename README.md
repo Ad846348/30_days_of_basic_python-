@@ -35,7 +35,7 @@ v1- logical statement+ List
 v2- Dictionary 
 ![Project_4_marksheet](image/marksheet.png)
 
-# Mini projects (1.Contact book),(2.Fibonacci series)
+# Mini projects (1.Contact book),(2.Fibonacci series),(3.Weather app),(4.Quiz app)
 # 1. Contact book 
 Features:-✒️
 It search,show,add and delete numbers as instructed by user.
@@ -50,9 +50,26 @@ It prints the Fibonacci series till the input number provided by user.
 Features:-✒️
 It is almost same as ATM. It only shows the use of import command.
 
-# Project-5 (Weather app)
+# Weather app
 Features:-✒️
 It is a simple terminal code that take city name as input from user and show its weather condition.
 # Quiz app
 Features:-✒️
 It is a simple terminal code that ask few questions from user and show their respective scores.
+
+# Project-5 (Registration form)
+Features:-✒️
+It collects basic information from user such as name, address,email...
+It contains 3 versions:-
+v1- GUI (tkinter)
+v2-GUI (drop down buttons)
+v3- GUI+ exception handling 
+
+# Project-6 (Chat interface)
+Features:-✒️
+It is a simple GUI based application.
+It contains scrolled text box,GUI interface, Basic bot logic.
+It consists of 2 versions:-
+v1- Bot provide only one default message.
+v2- user ke input ke hisab se jawab.
+
