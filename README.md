@@ -62,14 +62,18 @@ It is a simple GUI based program showing use of scroll box.
 Features:-✒️
 It uses python tkinter library and API key.
 It takes amount from user and convert it into another currency as specified by user...
+![Currency convertor](Screenshots/currency.png)
 
 # Project-5 (Registration form)
 Features:-✒️
 It collects basic information from user such as name, address,email...
 It contains 3 versions:-
 v1- GUI (tkinter)
+![registration](Screenshots/registrationv1.png)
 v2-GUI (drop down buttons)
-v3- GUI+ exception handling 
+![registration](Screenshots/registrationv2.png)
+v3- GUI+ exception handling
+![registration](Screenshots/registrationv3.png)
 
 # Project - 6 (Chat interface)
 Features:-✒️
