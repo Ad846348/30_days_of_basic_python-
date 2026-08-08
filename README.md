@@ -81,7 +81,9 @@ It is a simple GUI based application.
 It contains scrolled text box,GUI interface, Basic bot logic.
 It consists of 2 versions:-
 v1- Bot provide only one default message.
+![chat interface](Screenshots/Chatv1.png)
 v2- user ke input ke hisab se jawab.
+![chat interface](Screenshots/Chatv2.png)
 
 # Project-7 (Weather)
 Features:-✒️
