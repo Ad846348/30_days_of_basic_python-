@@ -7,8 +7,8 @@ v2- oops+logical statement
 v3- oops+exception+logical statement 
 v4- tkinter GUI
 v5- GUI+file
-![Project_1_ATM](image/atm_gui.png)
-![Project_1_ATM](image/atm_gui_02.png)
+![Project_1_ATM](screenshots/atm_gui.png)
+![Project_1_ATM](screenshots/atm_gui_02.png)
 
 # Project -2 (To-do-list)
 Features:-✒️
