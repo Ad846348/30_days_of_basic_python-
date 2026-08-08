@@ -91,6 +91,7 @@ It extracts data from internet using API key.
 It takes city name from user as input and show its weather condition as output.
 It comprises of 2 versions:-
 v1- simple terminal program 
+![Weather](Screenshots/weatherv1.png)
 v2- GUI based 
-
+![Weather](Screenshots/weatherv2.png)
 
