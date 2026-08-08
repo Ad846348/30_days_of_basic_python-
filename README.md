@@ -16,7 +16,7 @@ It is a simple program that show,add and delete tasks given by user.
 It comprises of 2 versions:-
 v1- logic statement+function
 v2- oops 
-![Project_2_To-do-list](Screenshots/To-do-list.png)
+![Project_2_To-do-list](Screenshots/To_do_list.png)
 
 # Project -3 (Calculator)
 Features:-✒️
