@@ -44,7 +44,7 @@ It search,show,add and delete numbers as instructed by user.
 # 2. Fibonacci 
 Features:-✒️
 It prints the Fibonacci series till the input number provided by user.
-![Fibonacci](Screenshots/Dibbo.png)
+![Fibonacci](Screenshots/fibbo.png)
 
 # ATM_Module
 Features:-✒️
