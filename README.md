@@ -64,6 +64,12 @@ It uses python tkinter library and API key.
 It takes amount from user and convert it into another currency as specified by user...
 ![Currency convertor](Screenshots/currency.png)
 
+# Joke generator 
+Features:-✒️
+It is a simple GUI app that fetches live jokes.
+Categories:-"pun","misc","programming","spooky".
+![Joke](Screenshots/Joke.png)
+
 # Project-5 (Registration form)
 Features:-✒️
 It collects basic information from user such as name, address,email...
