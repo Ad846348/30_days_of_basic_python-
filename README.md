@@ -35,7 +35,7 @@ v1- logical statement+ List
 v2- Dictionary 
 ![Project_4_marksheet](Screenshots/marksheet.png)
 
-# Mini projects (1.Contact book),(2.Fibonacci series),(3.Weather app),(4.Quiz app)
+# Mini projects 
 # 1. Contact book 
 Features:-✒️
 It search,show,add and delete numbers as instructed by user.
@@ -50,25 +50,31 @@ It prints the Fibonacci series till the input number provided by user.
 Features:-✒️
 It is almost same as ATM. It only shows the use of import command
 
-# Quiz app
+# 3.Quiz app
 Features:-✒️
 It is a simple terminal code that ask few questions from user and show their respective scores.
 
-# Display box
+# 4. Display box
 Features:-✒️
 It is a simple GUI based program showing use of scroll box.
 
-# Currency convertor 
+# 5.Currency convertor 
 Features:-✒️
 It uses python tkinter library and API key.
 It takes amount from user and convert it into another currency as specified by user...
 ![Currency convertor](Screenshots/currency.png)
 
-# Joke generator 
+# 6.Joke generator 
 Features:-✒️
 It is a simple GUI app that fetches live jokes.
 Categories:-"pun","misc","programming","spooky".
 ![Joke](Screenshots/Joke.png)
+
+# 7.Password generator 
+Features:-✒️
+GUI based application.
+Generates and copy password as per instructions given by user.
+![Password](Screenshots/Pass.png)
 
 # Project-5 (Registration form)
 Features:-✒️
