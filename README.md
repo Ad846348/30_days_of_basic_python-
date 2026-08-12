@@ -76,6 +76,10 @@ GUI based application.
 Generates and copy password as per instructions given by user.
 ![Password](Screenshots/Pass.png)
 
+# 8. Bulk File Renamer 
+Features:-✒️
+It rename a large no. of files from a folder selected by user at once..
+
 # Project-5 (Registration form)
 Features:-✒️
 It collects basic information from user such as name, address,email...
@@ -106,4 +110,12 @@ v1- simple terminal program
 ![Weather](Screenshots/weatherv1.png)
 v2- GUI based 
 ![Weather](Screenshots/weatherv2.png)
+
+# Numpy library 
+• Numpy Arrays 
+Features:-✒️
+1.Convert list into array and check dimensions 
+2.To create n dimensional array 
+3. create zeroes,ones, empty,range,linspace array..
+![numpy](Screenshots/array.png)
 
