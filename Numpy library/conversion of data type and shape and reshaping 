@@ -1,0 +1,25 @@
+#To convert one data type into another
+import numpy as np
+a=np.array([1,2,3,4],dtype="int16")
+print(a)
+print()
+print(a.dtype)
+print()
+
+# Shaping and reshaping
+import numpy as np
+a=np.array([[1,2,3,4,5,6],[1,2,3,4,5,6]])
+print(a.shape)
+print(a)
+print()
+
+import numpy as np
+a=np.array([1,2,3,4,5,6])
+b=a.reshape(3,2)
+print(b)
+
+
+
+
+
+
