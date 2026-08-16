@@ -118,4 +118,11 @@ Features:-✒️
 2.To create n dimensional array 
 3. create zeroes,ones, empty,range,linspace array..
 ![numpy](Screenshots/array.png)
+•Random array and data types
+Features:-✒️
+It creates random array using inbuilt functions such as randn,rang,randint, etc.
+• Conversion of data type, shape and reshaping 
+Features:-✒️
+It converts one data type into another and also shaping and reshaping arrays.
+![numpy](Screenshots/shape.png)
 
