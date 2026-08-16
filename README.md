@@ -125,4 +125,19 @@ It creates random array using inbuilt functions such as randn,rang,randint, etc.
 Features:-✒️
 It converts one data type into another and also shaping and reshaping arrays.
 ![numpy](Screenshots/shape.png)
+•Numpy functions:-
+Features:-✒️
+It performs functions such as resize,flatten, insert, unique and matrix functions.
+![numpy](Screenshots/Matrix.png)
+•Bill calculator 
+Features:-✒️
+It calculates the item wise total as well as the total bill amount.
+![bill](Screenshots/bill.png)
+•Marks analyzer
+Features:-✒️
+It calculates Total marks, subject wise avg, Toughest subject..
+![marks](Screenshots/marks.png)
+
+
+
 
