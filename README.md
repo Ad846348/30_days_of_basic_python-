@@ -138,6 +138,20 @@ Features:-✒️
 It calculates Total marks, subject wise avg, Toughest subject..
 ![marks](Screenshots/marks.png)
 
+# Pandas 
+• Basics
+Features:-✒️
+It creates a data frame,name all the columns and also the shape and data type.
+• Series_Dataframe
+Features:-✒️
+It depicts the use of pandas data structures i.e, series and data frame.
+It also provide code to change the index of the data frame.
+![series](Screenshots/series.png)
+•Arithmetic operations 
+Features:-✒️
+It depicts some of the basic arithmetic operations that can be performed on data in pandas.
+![arithmetic](Screenshots/arithmetic.png)
+
 
 
 
