@@ -11,7 +11,7 @@ v5- GUI+file
   <summary>Click to view screenshots</summary>
 ![Project_1_ATM](Screenshots/atm_gui.png)
 ![Project_1_ATM](Screenshots/atm_gui_02.png)
-  <details>
+</details>
 
 # Project -2 (To-do-list)
 Features:-✒️
@@ -19,7 +19,9 @@ It is a simple program that show,add and delete tasks given by user.
 It comprises of 2 versions:-
 v1- logic statement+function
 v2- oops 
-![Project_2_To-do-list](Screenshots/To_do_list.png)
+<details>
+<summary>![Project_2_To-do-list](Screenshots/To_do_list.png)</summary>
+</details>
 
 # Project -3 (Calculator)
 Features:-✒️
