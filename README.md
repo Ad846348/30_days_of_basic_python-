@@ -151,6 +151,14 @@ It also provide code to change the index of the data frame.
 Features:-✒️
 It depicts some of the basic arithmetic operations that can be performed on data in pandas.
 ![arithmetic](Screenshots/arithmetic.png)
+• Insert and Delete 
+Features:-✒️
+It shows how one can insert and delete data from data frame created in pandas..
+![insert](Screenshots/insert.png)
+• Write and read
+Features:-
+It depicts how to create a csv file in pandas and read data from it.
+![write](Screenshots/create.png)
 
 
 
