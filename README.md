@@ -9,8 +9,8 @@ v4- tkinter GUI
 v5- GUI+file
 <details>
   <summary>Click to view screenshots</summary>
-![Project_1_ATM]
-  (Screenshots/atm_gui.png)
+  
+  ![Project_1_ATM](Screenshots/atm_gui.png)
 
   ![Project_1_ATM](Screenshots/atm_gui_02.png)
 </details>
@@ -22,7 +22,9 @@ It comprises of 2 versions:-
 v1- logic statement+function
 v2- oops 
 <details>
-<summary>![Project_2_To-do-list](Screenshots/To_do_list.png)</summary>
+<summary>Click to view screenshots</summary>
+  
+  ![Project_2_To-do-list](Screenshots/To_do_list.png)</summary>
 </details>
 
 # Project -3 (Calculator)
@@ -32,7 +34,11 @@ It comprises of 3 versions:-
 v1- smart calculator (loop+logical statement)
 v2- simple calculator (loop+functions+logical statement)
 v3- scientific calculator (oops)
-![Project_3_calculator](Screenshots/calculator.png)
+<details>
+  <summary>Click to view screenshots 
+</summary>
+  
+![Project_3_calculator](Screenshots/calculator.png)</details>
 
 # Project -4 (Student Marksheet)
 Features:-✒️
@@ -40,7 +46,10 @@ It provides the total marks obtained by students,its percentage as well as grade
 It comprises of 2 versions:-
 v1- logical statement+ List
 v2- Dictionary 
-![Project_4_marksheet](Screenshots/marksheet.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![Project_4_marksheet](Screenshots/marksheet.png)</details>
 
 # Mini projects 
 # 1. Contact book 
