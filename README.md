@@ -121,12 +121,12 @@ v1- GUI (tkinter)
   
 ![registration](Screenshots/registrationv1.png)</details>
   v2-GUI (drop down buttons)
-  details>
+  <details>
   <summary>Click to view screenshots </summary>
   
 ![registration](Screenshots/registrationv2.png)</details>
 v3- GUI+ exception handling
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![registration](Screenshots/registrationv3.png)</details>
@@ -137,12 +137,12 @@ It is a simple GUI based application.
 It contains scrolled text box,GUI interface, Basic bot logic.
 It consists of 2 versions:-
 v1- Bot provide only one default message.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![chat interface](Screenshots/Chatv1.png)</details>
 v2- user ke input ke hisab se jawab.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![chat interface](Screenshots/Chatv2.png)</details>
@@ -153,12 +153,12 @@ It extracts data from internet using API key.
 It takes city name from user as input and show its weather condition as output.
 It comprises of 2 versions:-
 v1- simple terminal program 
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![Weather](Screenshots/weatherv1.png)</details>
 v2- GUI based 
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![Weather](Screenshots/weatherv2.png)</details>
@@ -169,7 +169,7 @@ Features:-✒️
 1.Convert list into array and check dimensions 
 2.To create n dimensional array 
 3. create zeroes,ones, empty,range,linspace array..
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![numpy](Screenshots/array.png)</details>
@@ -179,28 +179,28 @@ It creates random array using inbuilt functions such as randn,rang,randint, etc.
 • Conversion of data type, shape and reshaping 
 Features:-✒️
 It converts one data type into another and also shaping and reshaping arrays.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![numpy](Screenshots/shape.png)</details>
 •Numpy functions:-
 Features:-✒️
 It performs functions such as resize,flatten, insert, unique and matrix functions.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![numpy](Screenshots/Matrix.png)</details>
 •Bill calculator 
 Features:-✒️
 It calculates the item wise total as well as the total bill amount.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![bill](Screenshots/bill.png)</details>
 •Marks analyzer
 Features:-✒️
 It calculates Total marks, subject wise avg, Toughest subject..
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![marks](Screenshots/marks.png)</details>
@@ -213,28 +213,28 @@ It creates a data frame,name all the columns and also the shape and data type.
 Features:-✒️
 It depicts the use of pandas data structures i.e, series and data frame.
 It also provide code to change the index of the data frame.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![series](Screenshots/series.png)</details>
 •Arithmetic operations 
 Features:-✒️
 It depicts some of the basic arithmetic operations that can be performed on data in pandas.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![arithmetic](Screenshots/arithmetic.png)</details>
 • Insert and Delete 
 Features:-✒️
 It shows how one can insert and delete data from data frame created in pandas..
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![insert](Screenshots/insert.png)</details>
 • Write and read
 Features:-
 It depicts how to create a csv file in pandas and read data from it.
-details>
+<details>
   <summary>Click to view screenshots </summary>
   
 ![write](Screenshots/create.png)</details>
