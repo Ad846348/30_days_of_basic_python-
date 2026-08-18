@@ -55,12 +55,18 @@ v2- Dictionary
 # 1. Contact book 
 Features:-✒️
 It search,show,add and delete numbers as instructed by user.
-![Contact_book](Screenshots/contact.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![Contact_book](Screenshots/contact.png)</details>
 
 # 2. Fibonacci 
 Features:-✒️
 It prints the Fibonacci series till the input number provided by user.
-![Fibonacci](Screenshots/fibbo.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![Fibonacci](Screenshots/fibbo.png)</details>
 
 # ATM_Module
 Features:-✒️
@@ -78,19 +84,28 @@ It is a simple GUI based program showing use of scroll box.
 Features:-✒️
 It uses python tkinter library and API key.
 It takes amount from user and convert it into another currency as specified by user...
-![Currency convertor](Screenshots/currency.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![Currency convertor](Screenshots/currency.png)</details>
 
 # 6.Joke generator 
 Features:-✒️
 It is a simple GUI app that fetches live jokes.
 Categories:-"pun","misc","programming","spooky".
-![Joke](Screenshots/Joke.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![Joke](Screenshots/Joke.png)</details>
 
 # 7.Password generator 
 Features:-✒️
 GUI based application.
 Generates and copy password as per instructions given by user.
-![Password](Screenshots/Pass.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![Password](Screenshots/Pass.png)</details>
 
 # 8. Bulk File Renamer 
 Features:-✒️
@@ -101,11 +116,20 @@ Features:-✒️
 It collects basic information from user such as name, address,email...
 It contains 3 versions:-
 v1- GUI (tkinter)
-![registration](Screenshots/registrationv1.png)
-v2-GUI (drop down buttons)
-![registration](Screenshots/registrationv2.png)
+<details>
+  <summary>Click to view screenshots </summary>
+  
+![registration](Screenshots/registrationv1.png)</details>
+  v2-GUI (drop down buttons)
+  details>
+  <summary>Click to view screenshots </summary>
+  
+![registration](Screenshots/registrationv2.png)</details>
 v3- GUI+ exception handling
-![registration](Screenshots/registrationv3.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![registration](Screenshots/registrationv3.png)</details>
 
 # Project - 6 (Chat interface)
 Features:-✒️
@@ -113,9 +137,15 @@ It is a simple GUI based application.
 It contains scrolled text box,GUI interface, Basic bot logic.
 It consists of 2 versions:-
 v1- Bot provide only one default message.
-![chat interface](Screenshots/Chatv1.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![chat interface](Screenshots/Chatv1.png)</details>
 v2- user ke input ke hisab se jawab.
-![chat interface](Screenshots/Chatv2.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![chat interface](Screenshots/Chatv2.png)</details>
 
 # Project-7 (Weather)
 Features:-✒️
@@ -123,9 +153,15 @@ It extracts data from internet using API key.
 It takes city name from user as input and show its weather condition as output.
 It comprises of 2 versions:-
 v1- simple terminal program 
-![Weather](Screenshots/weatherv1.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![Weather](Screenshots/weatherv1.png)</details>
 v2- GUI based 
-![Weather](Screenshots/weatherv2.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![Weather](Screenshots/weatherv2.png)</details>
 
 # Numpy library 
 • Numpy Arrays 
@@ -133,26 +169,41 @@ Features:-✒️
 1.Convert list into array and check dimensions 
 2.To create n dimensional array 
 3. create zeroes,ones, empty,range,linspace array..
-![numpy](Screenshots/array.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![numpy](Screenshots/array.png)</details>
 •Random array and data types
 Features:-✒️
 It creates random array using inbuilt functions such as randn,rang,randint, etc.
 • Conversion of data type, shape and reshaping 
 Features:-✒️
 It converts one data type into another and also shaping and reshaping arrays.
-![numpy](Screenshots/shape.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![numpy](Screenshots/shape.png)</details>
 •Numpy functions:-
 Features:-✒️
 It performs functions such as resize,flatten, insert, unique and matrix functions.
-![numpy](Screenshots/Matrix.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![numpy](Screenshots/Matrix.png)</details>
 •Bill calculator 
 Features:-✒️
 It calculates the item wise total as well as the total bill amount.
-![bill](Screenshots/bill.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![bill](Screenshots/bill.png)</details>
 •Marks analyzer
 Features:-✒️
 It calculates Total marks, subject wise avg, Toughest subject..
-![marks](Screenshots/marks.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![marks](Screenshots/marks.png)</details>
 
 # Pandas 
 • Basics
@@ -162,19 +213,31 @@ It creates a data frame,name all the columns and also the shape and data type.
 Features:-✒️
 It depicts the use of pandas data structures i.e, series and data frame.
 It also provide code to change the index of the data frame.
-![series](Screenshots/series.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![series](Screenshots/series.png)</details>
 •Arithmetic operations 
 Features:-✒️
 It depicts some of the basic arithmetic operations that can be performed on data in pandas.
-![arithmetic](Screenshots/arithmetic.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![arithmetic](Screenshots/arithmetic.png)</details>
 • Insert and Delete 
 Features:-✒️
 It shows how one can insert and delete data from data frame created in pandas..
-![insert](Screenshots/insert.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![insert](Screenshots/insert.png)</details>
 • Write and read
 Features:-
 It depicts how to create a csv file in pandas and read data from it.
-![write](Screenshots/create.png)
+details>
+  <summary>Click to view screenshots </summary>
+  
+![write](Screenshots/create.png)</details>
 
 
 
