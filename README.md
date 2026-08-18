@@ -9,8 +9,8 @@ v4- tkinter GUI
 v5- GUI+file
 <details>
   <summary>Click to view screenshots</summary>
-![Project_1_ATM](Screenshots/atm_gui.png)
-![Project_1_ATM](Screenshots/atm_gui_02.png)
+<img>![Project_1_ATM](Screenshots/atm_gui.png)
+![Project_1_ATM](Screenshots/atm_gui_02.png)</img>
 </details>
 
 # Project -2 (To-do-list)
