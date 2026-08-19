@@ -238,7 +238,13 @@ It depicts how to create a csv file in pandas and read data from it.
   <summary>Click to view screenshots </summary>
   
 ![write](Screenshots/create.png)</details>
-
+• Functions of CSV 
+features:-✒️
+It depicts parameters such as nrows,usecols, skiprows,index_col,names,dtype..
+<details>
+<summary>Click to view screenshots</summary>
+  
+![functions](Screenshots/functions.png)</details>
 
 
 
