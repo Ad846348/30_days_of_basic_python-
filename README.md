@@ -245,6 +245,29 @@ It depicts parameters such as nrows,usecols, skiprows,index_col,names,dtype..
 <summary>Click to view screenshots</summary>
   
 ![functions](Screenshots/functions.png)</details>
+•Data cleaning 
+features:-✒️
+It depicts the use of dropna,fillna in pandas.. it also show how we can add columns in an existing dataframe..
+<details>
+<summary>Click to view screenshots </summary>
+  
+![data](Screenshots/data_c.png)</details>
+•products.csv
+features:-✒️
+It is a simple program that show a dataframe containing product, price, discount,use of fillna, arithmetic operations.
+<details>
+<summary>Click to view screenshots </summary>
+  
+![prod](Screenshots/disc.png)</details>
+
+# Project - 8 (E-commerce analyzer)
+features:-✒️
+It is a program that generates its own raw data, arrange it in dataframe,show City wise revenue,ratings ..
+<details>
+<summary>Click to view screenshots </summary>
+  
+![comm](Screenshots/e_commerce.png)
+</details>
 
 
 
