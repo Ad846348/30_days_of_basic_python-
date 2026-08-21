@@ -8,7 +8,7 @@ v3- oops+exception+logical statement
 v4- tkinter GUI
 v5- GUI+file
 <details>
-  <summary>Click to view screenshots</summary>
+  <summary>📸Click to view screenshots</summary>
   
   ![Project_1_ATM](Screenshots/atm_gui.png)
 
@@ -22,7 +22,7 @@ It comprises of 2 versions:-
 v1- logic statement+function
 v2- oops 
 <details>
-<summary>Click to view screenshots</summary>
+<summary>📸Click to view screenshots</summary>
   
   ![Project_2_To-do-list](Screenshots/To_do_list.png)</summary>
 </details>
@@ -35,7 +35,7 @@ v1- smart calculator (loop+logical statement)
 v2- simple calculator (loop+functions+logical statement)
 v3- scientific calculator (oops)
 <details>
-  <summary>Click to view screenshots 
+  <summary>📸Click to view screenshots 
 </summary>
   
 ![Project_3_calculator](Screenshots/calculator.png)</details>
@@ -47,7 +47,7 @@ It comprises of 2 versions:-
 v1- logical statement+ List
 v2- Dictionary 
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Project_4_marksheet](Screenshots/marksheet.png)</details>
 
@@ -56,7 +56,7 @@ v2- Dictionary
 Features:-✒️
 It search,show,add and delete numbers as instructed by user.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Contact_book](Screenshots/contact.png)</details>
 
@@ -64,7 +64,7 @@ It search,show,add and delete numbers as instructed by user.
 Features:-✒️
 It prints the Fibonacci series till the input number provided by user.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Fibonacci](Screenshots/fibbo.png)</details>
 
@@ -85,7 +85,7 @@ Features:-✒️
 It uses python tkinter library and API key.
 It takes amount from user and convert it into another currency as specified by user...
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Currency convertor](Screenshots/currency.png)</details>
 
@@ -94,7 +94,7 @@ Features:-✒️
 It is a simple GUI app that fetches live jokes.
 Categories:-"pun","misc","programming","spooky".
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Joke](Screenshots/Joke.png)</details>
 
@@ -103,7 +103,7 @@ Features:-✒️
 GUI based application.
 Generates and copy password as per instructions given by user.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Password](Screenshots/Pass.png)</details>
 
@@ -117,17 +117,17 @@ It collects basic information from user such as name, address,email...
 It contains 3 versions:-
 v1- GUI (tkinter)
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![registration](Screenshots/registrationv1.png)</details>
   v2-GUI (drop down buttons)
   <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![registration](Screenshots/registrationv2.png)</details>
 v3- GUI+ exception handling
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![registration](Screenshots/registrationv3.png)</details>
 
@@ -138,12 +138,12 @@ It contains scrolled text box,GUI interface, Basic bot logic.
 It consists of 2 versions:-
 v1- Bot provide only one default message.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![chat interface](Screenshots/Chatv1.png)</details>
 v2- user ke input ke hisab se jawab.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![chat interface](Screenshots/Chatv2.png)</details>
 
@@ -154,12 +154,12 @@ It takes city name from user as input and show its weather condition as output.
 It comprises of 2 versions:-
 v1- simple terminal program 
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Weather](Screenshots/weatherv1.png)</details>
 v2- GUI based 
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![Weather](Screenshots/weatherv2.png)</details>
 
@@ -170,7 +170,7 @@ Features:-✒️
 2.To create n dimensional array 
 3. create zeroes,ones, empty,range,linspace array..
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![numpy](Screenshots/array.png)</details>
 •Random array and data types
@@ -180,28 +180,28 @@ It creates random array using inbuilt functions such as randn,rang,randint, etc.
 Features:-✒️
 It converts one data type into another and also shaping and reshaping arrays.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![numpy](Screenshots/shape.png)</details>
 •Numpy functions:-
 Features:-✒️
 It performs functions such as resize,flatten, insert, unique and matrix functions.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![numpy](Screenshots/Matrix.png)</details>
 •Bill calculator 
 Features:-✒️
 It calculates the item wise total as well as the total bill amount.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![bill](Screenshots/bill.png)</details>
 •Marks analyzer
 Features:-✒️
 It calculates Total marks, subject wise avg, Toughest subject..
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![marks](Screenshots/marks.png)</details>
 
@@ -214,49 +214,49 @@ Features:-✒️
 It depicts the use of pandas data structures i.e, series and data frame.
 It also provide code to change the index of the data frame.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![series](Screenshots/series.png)</details>
 •Arithmetic operations 
 Features:-✒️
 It depicts some of the basic arithmetic operations that can be performed on data in pandas.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![arithmetic](Screenshots/arithmetic.png)</details>
 • Insert and Delete 
 Features:-✒️
 It shows how one can insert and delete data from data frame created in pandas..
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![insert](Screenshots/insert.png)</details>
 • Write and read
 Features:-
 It depicts how to create a csv file in pandas and read data from it.
 <details>
-  <summary>Click to view screenshots </summary>
+  <summary>📸Click to view screenshots </summary>
   
 ![write](Screenshots/create.png)</details>
 • Functions of CSV 
 features:-✒️
 It depicts parameters such as nrows,usecols, skiprows,index_col,names,dtype..
 <details>
-<summary>Click to view screenshots</summary>
+<summary>📸Click to view screenshots</summary>
   
 ![functions](Screenshots/functions.png)</details>
 •Data cleaning 
 features:-✒️
 It depicts the use of dropna,fillna in pandas.. it also show how we can add columns in an existing dataframe..
 <details>
-<summary>Click to view screenshots </summary>
+<summary>📸Click to view screenshots </summary>
   
 ![data](Screenshots/data_c.png)</details>
 •products.csv
 features:-✒️
 It is a simple program that show a dataframe containing product, price, discount,use of fillna, arithmetic operations.
 <details>
-<summary>Click to view screenshots </summary>
+<summary>📸Click to view screenshots </summary>
   
 ![prod](Screenshots/disc.png)</details>
 
@@ -264,7 +264,7 @@ It is a simple program that show a dataframe containing product, price, discount
 features:-✒️
 It is a program that generates its own raw data, arrange it in dataframe,show City wise revenue,ratings ..
 <details>
-<summary>Click to view screenshots </summary>
+<summary>📸Click to view screenshots </summary>
   
 ![comm](Screenshots/e_commerce.png)
 </details>
