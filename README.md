@@ -107,10 +107,6 @@ Generates and copy password as per instructions given by user.
   
 ![Password](Screenshots/Pass.png)</details>
 
-# 8. Bulk File Renamer 
-Features:-✒️
-It rename a large no. of files from a folder selected by user at once..
-
 # Project-5 (Registration form)
 Features:-✒️
 It collects basic information from user such as name, address,email...
@@ -162,6 +158,11 @@ v2- GUI based
   <summary>📸Click to view screenshots </summary>
   
 ![Weather](Screenshots/weatherv2.png)</details>
+
+
+# Project - 8. (Bulk File Renamer) 
+Features:-✒️
+It rename a large no. of files from a folder selected by user at once..
 
 # Numpy library 
 • Numpy Arrays 
@@ -260,13 +261,23 @@ It is a simple program that show a dataframe containing product, price, discount
   
 ![prod](Screenshots/disc.png)</details>
 
-# Project - 8 (E-commerce analyzer)
+# Project - 9 (E-commerce analyzer)
 features:-✒️
 It is a program that generates its own raw data, arrange it in dataframe,show City wise revenue,ratings ..
 <details>
 <summary>📸Click to view screenshots </summary>
   
 ![comm](Screenshots/e_commerce.png)
+</details>
+
+# Matplotlib 
+•Product vs Sold
+features:-✒️
+It uses the previous sales.csv file and show the city wise revenue using a bar graph..
+<details>
+<summary>📸Click to view screenshots </summary>
+  
+![bar](Screenshots/bar.png)
 </details>
 
 
