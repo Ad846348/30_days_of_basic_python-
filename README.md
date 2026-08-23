@@ -279,6 +279,13 @@ It uses the previous sales.csv file and show the city wise revenue using a bar g
   
 ![bar](Screenshots/bar.png)
 </details>
+• Nirf vs ranking 
+It shows how to create scatter plot using matplotlib and show relation between nirf _rankings and priority of IITs for students.
+<details>
+<summary>📸Click to view Screenshots</summary>
+  
+![scatter](Screenshots/nirf.png)
+</details>
 
 
 
