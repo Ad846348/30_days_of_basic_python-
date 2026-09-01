@@ -301,7 +301,7 @@ It uses pie chart and its functions such as explode, radius, startangle,.. to sh
 <details>
 <summary>📸 Click to view Screenshots </summary>
   
-![pie](Screenshots/pie.png)
+![pie](Screenshots/Pie.png)
 </details>
 
 
