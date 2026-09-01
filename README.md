@@ -287,6 +287,23 @@ It shows how to create scatter plot using matplotlib and show relation between n
   
 ![scatter](Screenshots/nirf.png)
 </details>
+• Histogram 
+features:-✒️
+It basically depicts the use of histogram and its functions in matplotlib to show relation between the nirf ranking and frequency of IITs.
+<details>
+<summary>📸 Click to view Screenshots </summary>
+  
+![hist](Screenshots/hist.png)</details>
+
+• Pie chart 
+features:-✒️
+It uses pie chart and its functions such as explode, radius, startangle,.. to show the relation between a language and its popularity.
+<details>
+<summary>📸 Click to view Screenshots </summary>
+  
+![pie](Screenshots/pie.png)
+</details>
+
 
 
 
